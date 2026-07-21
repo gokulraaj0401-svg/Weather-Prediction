@@ -220,7 +220,7 @@ Users can enter weather parameters and receive the predicted weather condition i
 
 **Your Name**
 
-B.Tech Information Technology
+B.E computer science
 
 Passionate about Artificial Intelligence, Machine Learning, Python, and Data Science.
 
