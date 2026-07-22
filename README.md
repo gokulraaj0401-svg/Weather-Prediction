@@ -1,4 +1,4 @@
-# 🌦️ Smart Weather Prediction
+# 🌦️  Weather Prediction
 
 An AI-powered Machine Learning application for predicting weather conditions using historical weather data and environmental parameters.
 
